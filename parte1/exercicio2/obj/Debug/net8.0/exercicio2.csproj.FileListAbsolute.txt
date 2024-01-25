@@ -1,0 +1,14 @@
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\bin\Debug\net8.0\exercicio2.exe
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\bin\Debug\net8.0\exercicio2.deps.json
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\bin\Debug\net8.0\exercicio2.runtimeconfig.json
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\bin\Debug\net8.0\exercicio2.dll
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\bin\Debug\net8.0\exercicio2.pdb
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\exercicio2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfoInputs.cache
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\exercicio2.AssemblyInfo.cs
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\exercicio2.csproj.CoreCompileInputs.cache
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\exercicio2.dll
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\refint\exercicio2.dll
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\exercicio2.pdb
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\exercicio2.genruntimeconfig.cache
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte1\exercicio2\obj\Debug\net8.0\ref\exercicio2.dll
