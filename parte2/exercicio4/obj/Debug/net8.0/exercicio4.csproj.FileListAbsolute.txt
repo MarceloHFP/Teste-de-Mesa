@@ -12,3 +12,4 @@ C:\Users\henriqueferreira\Documents\Teste de Mesa\parte2\exercicio4\obj\Debug\ne
 C:\Users\henriqueferreira\Documents\Teste de Mesa\parte2\exercicio4\obj\Debug\net8.0\exercicio4.pdb
 C:\Users\henriqueferreira\Documents\Teste de Mesa\parte2\exercicio4\obj\Debug\net8.0\exercicio4.genruntimeconfig.cache
 C:\Users\henriqueferreira\Documents\Teste de Mesa\parte2\exercicio4\obj\Debug\net8.0\ref\exercicio4.dll
+C:\Users\henriqueferreira\Documents\Teste de Mesa\parte2\exercicio4\obj\Debug\net8.0\exercicio4.sourcelink.json
