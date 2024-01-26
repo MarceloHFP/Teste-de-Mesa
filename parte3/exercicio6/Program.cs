@@ -17,13 +17,16 @@ public class Ambiente {
         Console.WriteLine("Passe a quantidade de meses: ");
         quantidadeMeses = Convert.ToDouble(Console.ReadLine());
 
-        
+        Console.WriteLine("Existe dias extras ?: ");
         a = Convert.ToString(Console.ReadLine());
 
-        if(a == "s" || a == "S" || a == "Sim") {
+        if(a == "s" || a == "S" || a == "Sim" || a == "sim") {
             Console.WriteLine("quantos ?: ");
             dias = Convert.ToInt32(Console.ReadLine());
-            valorFinal = valorInicial* Math.Pow(1+taxaJuros/100, quantidadeMeses+dias/30);
+            DateTime dataAtual = DateTime.Now;
+            DateTime dataFutura = dataAtual.AddMonths((int)quantidadeMeses).AddDays(dias);
+            int totalDias = (int)(dataFutura - dataAtual).TotalDays;
+            valorFinal = valorInicial* Math.Pow(1+taxaJuros/100, totalDias/30);
         }else {
             valorFinal = valorInicial* Math.Pow(1+taxaJuros/100, quantidadeMeses);
         }
